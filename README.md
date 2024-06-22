@@ -21,7 +21,7 @@ Operating System: OS library for directory management
 #Dataset
 The dataset used in this project contains a variety of weather attributes such as temperature, humidity, atmospheric pressure, wind speed, and solar radiation. The data spans over a period of time and includes observations from different locations.
 
-#Methodology
+# Methodology
 Data Collection: Gathered weather data with relevant attributes.
 
 Data Preprocessing and Cleaning: Identified and handled incorrect, incomplete, irrelevant, and missing data to prepare the dataset for analysis.
@@ -30,14 +30,14 @@ Data Analysis: Analyzed the preprocessed data to identify weather patterns and t
 
 Data Visualization: Created various visualizations like pie charts, bar graphs, and box plots to represent the data and findings effectively.
 
-#Results
+# Results
 High correlation observed between temperature and other weather attributes, indicating their interdependence.
 
 Significant weather patterns and trends were identified, particularly in the Minas Gerais province.
 
 Fluctuations in average temperatures over the years were analyzed, with notable variations between 2013 and 2016.
 
-#How to Use
+# How to Use
 Clone the repository to your local machine.
 
 Ensure you have Python and the required libraries installed.
